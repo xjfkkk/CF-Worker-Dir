@@ -2,7 +2,7 @@
  *  自定义网站配置 
  */
 const config = {
-  title: "自定义导航",                 //write your website title
+  title: "自定义导航 ",                 //write your website title
   subtitle: "Cloudflare Workers Dir", //write your website subtitle
   logo_icon: "sitemap",               //select your logo by semantic-ui icon (you can get more msg in:https://semantic-ui.com/elements/icon.html)
   hitokoto: true,                     //use hitokoto or not
